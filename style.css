@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.button{
+    padding: 10px;
+    font-size: 25px;
+    width: 47px;
+    border: 0.5px solid gray;
+  outline: none;
+  cursor: pointer;
+}
+.textview{
+    margin: 2px;
+    padding: 5px;
+    width: 200px;
+    height: 70px;
+}
+.main{
+    margin: 0 auto;
+    max-width:400px ;
+}
